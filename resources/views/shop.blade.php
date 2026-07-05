@@ -56,7 +56,7 @@
                     <span class="product-category">{{ $product->category }}</span>
                     <h3 class="product-title">{{ $product->title }}</h3>
                     <div class="product-price">${{ $product->price }}</div>
-                    <button class="add-to-cart-btn" data-id="{{ $product->id }}">Add to Cart</button>
+                    <button class="buy-now-btn" data-id="{{ $product->id }}">Buy Now</button>
                 </div>
             </div>
             @endforeach
