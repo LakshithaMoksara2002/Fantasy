@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Rugged Backpack Store</title>
+    <title>Fantasy</title>
     <meta name="description" content="Explore our collection of durable, premium backpacks and outdoor gear.">
     <link rel="stylesheet" href="{{ asset('css/style.css') }}">
 </head>
@@ -11,7 +11,7 @@
     <!-- Navigation -->
     <nav class="navbar">
         <div class="nav-container">
-            <a href="#" class="logo">Rugged<span>Gear</span></a>
+            <a href="#" class="logo">Fan<span>tasy</span></a>
             <div class="nav-links">
                 <a href="#home">Home</a>
                 <a href="#shop">Shop Bags</a>
@@ -67,7 +67,7 @@
     <footer class="footer">
         <div class="footer-content">
             <div class="footer-brand">
-                <a href="#" class="logo">Rugged<span>Gear</span></a>
+                <a href="#" class="logo">Fan<span>tasy</span></a>
                 <p>Equipping explorers with the finest backpacks and adventure gear since 2026.</p>
             </div>
             <div class="footer-links">
@@ -85,7 +85,7 @@
             </div>
         </div>
         <div class="footer-bottom">
-            <p>&copy; 2026 Rugged Gear. All rights reserved.</p>
+            <p>&copy; 2026 Fantasy. All rights reserved.</p>
         </div>
     </footer>
 
